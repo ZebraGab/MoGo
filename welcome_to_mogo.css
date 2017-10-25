@@ -1,0 +1,13 @@
+.welcome_text__text {
+  font-family: "Montserrat";
+  font-size: 108px;
+  color: white;
+  align-items: center;
+  cursor: default;
+}
+
+.welcome_text__text span:hover {
+  color: #ffffcc;
+  transition: 0.4s;
+
+}
